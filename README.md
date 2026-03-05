@@ -6,7 +6,7 @@ A 3D, book-style version of my personal portfolio, built with HTML, CSS, and a s
 
 This project mirrors content from my main portfolio:
 
-- Main site: https://aditya-verma.me
+- Main site: https://aditya-verma.me (not this one)
 - GitHub: https://github.com/youngcoder45
 
 ## Features
